@@ -1,2 +1,2 @@
-# Writing An Interpreter In Go
-Code repo for working through `Writing an Interpreter in Go` by Thorsten Ball
+# Crafting Interpreters (In Rust)
+Code repo for working through `Crafting Interpreters` by Robert Nystrom. 
